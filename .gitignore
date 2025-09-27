@@ -1,3 +1,7 @@
 file_name.txt
 *.doc
-
+﻿.pytest/
+venv/
+.idea/
+.pytest_cache/
+__pycache__/
